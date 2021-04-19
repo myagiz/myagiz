@@ -1,5 +1,5 @@
 ### Hi there 👋
-## Contact email : myagiz24@gmail.com
+### Contact email : myagiz24@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myagiz&hide=contribs,prs)
 
