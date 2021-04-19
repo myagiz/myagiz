@@ -1,6 +1,8 @@
 ### Hi there 👋
 
+<div class="container-fluid" style="text-align: center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myagiz)](https://github.com/myagiz/github-readme-stats)
+</div>
 
 ### Languages and Tools:
 
