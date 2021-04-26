@@ -1,7 +1,8 @@
 ### Hi my name is Yagiz.I was born 13 May 1995.👋
- <br />
- I'm working on .Net, C#, MVC, RESTful Web Services, TypeScript, Angular, HTML, CSS and also I'm trying to development myself on Java, SpringBoot, JSF
- <br />
+I'm working on .Net, C#, MVC, RESTful Web Services, TypeScript, Angular, HTML, CSS and also I'm trying to development myself on Java, SpringBoot, JSF
+
+<br />
+ 
 ## Contact me
 <p>
   <a href="mailto:myagiz24@gmail.com"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
