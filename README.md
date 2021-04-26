@@ -1,5 +1,6 @@
- Hi my name is Yagiz.I was born 13 May 1995.👋
- I'm Yagiz and I'm working on .Net, C#, MVC, RESTful Web Services, TypeScript, Angular, HTML, CSS and also I'm trying to development myself on Java, SpringBoot, JSF
+### Hi my name is Yagiz.I was born 13 May 1995.👋
+ <br />
+ I'm working on .Net, C#, MVC, RESTful Web Services, TypeScript, Angular, HTML, CSS and also I'm trying to development myself on Java, SpringBoot, JSF
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myagiz&hide=contribs,prs)
 
 
