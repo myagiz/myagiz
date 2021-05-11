@@ -1,7 +1,8 @@
 ### Hi my name is Yagiz 👋
 I'm working on .Net, C#, MVC, RESTful Web Services, TypeScript, Angular, HTML, CSS and also I'm trying to development myself on Java, SpringBoot, JSF
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=myagiz)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myagiz&langs_count=8)](https://github.com/myagiz/github-readme-stats)
+
 
 
 <br />
