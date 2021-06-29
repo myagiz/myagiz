@@ -1,5 +1,5 @@
 ### Hi my name is Yagiz 👋
-I'm working on .Net, C#, MVC, RESTful Web Services, TypeScript, Angular, HTML, CSS and also I'm trying to development myself on Java, SpringBoot, JSF
+I'm working on .Net, C#, MVC, RESTful Web Services, TypeScript, Angular, HTML, CSS and also I'm trying to development myself on .Net Core
 <br />
 
 ## Contact me
